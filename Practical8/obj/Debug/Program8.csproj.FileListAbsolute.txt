@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Practicals\Practical8\bin\Debug\Practical8.exe.config
+C:\Users\HP\source\repos\Practicals\Practical8\bin\Debug\Practical8.exe
+C:\Users\HP\source\repos\Practicals\Practical8\bin\Debug\Practical8.pdb
+C:\Users\HP\source\repos\Practicals\Practical8\obj\Debug\Program8.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Practicals\Practical8\obj\Debug\Practical8.Properties.Resources.resources
+C:\Users\HP\source\repos\Practicals\Practical8\obj\Debug\Program8.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Practicals\Practical8\obj\Debug\Practical8.exe
+C:\Users\HP\source\repos\Practicals\Practical8\obj\Debug\Practical8.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Practicals\Program7\bin\Debug\netcoreapp3.1\Program7.exe
+C:\Users\HP\source\repos\Practicals\Program7\bin\Debug\netcoreapp3.1\Program7.deps.json
+C:\Users\HP\source\repos\Practicals\Program7\bin\Debug\netcoreapp3.1\Program7.runtimeconfig.json
+C:\Users\HP\source\repos\Practicals\Program7\bin\Debug\netcoreapp3.1\Program7.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Practicals\Program7\bin\Debug\netcoreapp3.1\Program7.dll
+C:\Users\HP\source\repos\Practicals\Program7\bin\Debug\netcoreapp3.1\Program7.pdb
+C:\Users\HP\source\repos\Practicals\Program7\obj\Debug\netcoreapp3.1\Program7.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Practicals\Program7\obj\Debug\netcoreapp3.1\Program7.AssemblyInfo.cs
+C:\Users\HP\source\repos\Practicals\Program7\obj\Debug\netcoreapp3.1\Program7.dll
+C:\Users\HP\source\repos\Practicals\Program7\obj\Debug\netcoreapp3.1\Program7.pdb
